@@ -6,17 +6,26 @@ about:
     image-shape: rectangle
     image-width: 15em
     links:
-      - text: email
+      - text: Website
+        icon: globe
+        href: https://sbronson.ku.edu  
+      - text: Email
         icon: envelope
         href: mailto:sbronson@ku.edu
-      - text: vita
+      - text: CV
         icon: file-text
         href: https://sbronson.ku.edu/sites/sbronson/files/documents/Bronson-vita.pdf
+      - text: LinkedIn
+        icon: linkedin
+        href: https://www.linkedin.com/in/scottbronson/
+      - text: GitHub
+        icon: github
+        href: https://https://github.com/snbronson
 id: ppc
 ---
 
 :::{#ppc}
 Scott is an Associate Professor in the [School of Business](business.ku.edu) at the [University of Kansas](ku.edu). Before joining the Kansas faculty, Scott was an Assistant Professor of Accounting with the Broad College of Business at Michigan State University. He earned his undergraduate degree in Accountancy from Miami University in 1997 and his Ph.D. from the University of Tennessee in 2006. Before pursuing a Ph.D., Scott spent three years as an auditor with the Chicago office of PricewaterhouseCoopers LLP. After leaving PwC, he worked for two years in the accounting department of Trans Union International.
 
-Scott is an auditing researcher whose work focuses on how financial regulation impacts the reporting decisions of companies and their auditors. His work appears in *Journal of Accounting and Economics*, *Contemporary Accounting Research*, *Auditing: A Journal of Practice and Theory*, *Accounting Horizons*, *Journal of Accounting and Public Policy*, and *Directors Monthly*. Scott is also an editorial board member of Auditing: A Journal of Practice and Theory and previously served on the editorial board of The International Journal of Accounting.
+Scott is an auditing researcher whose work focuses on how financial regulation impacts the reporting decisions of companies and their auditors. His work appears in *Journal of Accounting and Economics*, *Contemporary Accounting Research*, *Auditing: A Journal of Practice and Theory*, *Accounting Horizons*, *Journal of Accounting and Public Policy*, and *Directors Monthly*. Scott is also an editorial board member of *Auditing: A Journal of Practice and Theory* and previously served on the editorial board of *The International Journal of Accounting*.
 :::
