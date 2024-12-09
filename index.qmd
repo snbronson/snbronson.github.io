@@ -13,7 +13,7 @@ about:
         icon: envelope
         href: mailto:sbronson@ku.edu
       - text: CV
-        icon: file-text
+        icon: file-person
         href: https://sbronson.ku.edu/sites/sbronson/files/documents/Bronson-vita.pdf
       - text: LinkedIn
         icon: linkedin
