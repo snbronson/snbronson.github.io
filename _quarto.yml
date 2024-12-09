@@ -11,9 +11,6 @@ website:
 
 format:
   html:
-    theme: cyborg
+    theme: spacelab
     css: styles.css
     toc: true
-
-
-
