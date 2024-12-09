@@ -20,7 +20,7 @@ about:
         href: https://www.linkedin.com/in/scottbronson/
       - text: GitHub
         icon: github
-        href: https://https://github.com/snbronson
+        href: https://github.com/snbronson
 id: ppc
 ---
 
