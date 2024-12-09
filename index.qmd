@@ -1,6 +1,6 @@
 ---
 title: Scott N. Bronson, Ph.D. CPA
-image: mypic.jpg
+image: images/mypic.jpg
 about:
     template: solana
     image-shape: rectangle
