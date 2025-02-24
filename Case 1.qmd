@@ -15,4 +15,4 @@ format: html
 7. For Total Current Assets, amounts need to be multiplied by 1,000,000. The amounts also need to be recognized as numeric data rather than text.
 8. For Total Depreciation, amounts are inconsistent due to the inclusion of parentheses for negative balances for American Airlines Group Inc., Apple Inc., Amazon.com Inc., and Aptevo Therapeutics Inc. The amounts also need to be recognized as numeric data rather than text.
 
-[Issues](Case1.png)
+<img src="Case1.png" alt="Annotated text from class" width="600">
