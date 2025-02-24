@@ -8,6 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Case 1.qmd
+        text: Case 1
+      - href: Case 4.qmd
+        text: Case 4
 
 format:
   html:

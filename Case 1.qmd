@@ -1,0 +1,7 @@
+---
+title: "Case 1"
+format: html
+---
+## Identifying Data Problems
+
+<iframe src="Case1.pdf" width="800px" height="600px"></iframe>
