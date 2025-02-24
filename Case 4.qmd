@@ -1,7 +1,0 @@
----
-title: "Case 4"
-format: html
----
-## Joining Data
-
-<iframe src="Case4.pdf" width="800px" height="600px"></iframe>
