@@ -29,3 +29,11 @@ Scott is an Associate Professor in the [School of Business](business.ku.edu) at 
 
 Scott is an auditing researcher whose work focuses on how financial regulation impacts the reporting decisions of companies and their auditors. His work appears in *Journal of Accounting and Economics*, *Contemporary Accounting Research*, *Auditing: A Journal of Practice and Theory*, *Accounting Horizons*, *Journal of Accounting and Public Policy*, and *Directors Monthly*. Scott is also an editorial board member of *Auditing: A Journal of Practice and Theory* and previously served on the editorial board of *The International Journal of Accounting*.
 :::
+
+## Case 1: Identifying Data Problems
+
+<embed src="Case1.pdf" width="800px" height="600px" type="application/pdf">
+
+## Case 4: Joining Data
+
+<embed src="Case2.pdf" width="800px" height="600px" type="application/pdf">
