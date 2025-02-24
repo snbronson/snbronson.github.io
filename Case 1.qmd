@@ -4,4 +4,15 @@ format: html
 ---
 ## Identifying Data Problems
 
-<iframe src="Case1.pdf" width="800px" height="600px"></iframe>
+# Issues Covered in Class
+
+1. Armada Hoffler Properties Inc. is missing the ticker symbol; use AHH.
+2. The ticker for Amazon.com Inc. (AMZN) has spaces in some instances, but not in others.
+3. Aptevo Therapeutics Inc. has a duplicate row of information.
+4. For Cash, amounts are inconsistent. Apple, Inc.’s cash is listed in millions using a number, followed by a space and an M. Aehr Test Systems’ cash and Aptevo Therapeutics Inc.’s cash are both listed in thousands using a number, followed by a space and a K. The amounts also need to be recognized as numeric data rather than text.
+5. For Accounts Receivables, amounts are inconsistent and include commas due to text qualifiers for American Airlines Group Inc., Apple, Inc., Aehr Test Systems, Armada Hoffler Properties Inc., and Aptevo Therapeutics Inc. The amounts also need to be recognized as numeric data rather than text.
+6. For Inventories, amounts are inconsistent due to the inclusion of dashes, spaces, and nulls for zero amounts for Aerocentury Corp. and Armada Hoffler Properties Inc. The amounts also need to be recognized as numeric data rather than text.
+7. For Total Current Assets, amounts need to be multiplied by 1,000,000. The amounts also need to be recognized as numeric data rather than text.
+8. For Total Depreciation, amounts are inconsistent due to the inclusion of parentheses for negative balances for American Airlines Group Inc., Apple Inc., Amazon.com Inc., and Aptevo Therapeutics Inc. The amounts also need to be recognized as numeric data rather than text.
+
+[Issues](Case1.png)
