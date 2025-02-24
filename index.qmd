@@ -32,8 +32,10 @@ Scott is an auditing researcher whose work focuses on how financial regulation i
 
 ## Case 1: Identifying Data Problems
 
-<embed src="Case1.pdf" width="800px" height="600px" type="application/pdf">
+## View the PDF
+
+<iframe src="Case1.pdf" width="800px" height="600px"></iframe>
 
 ## Case 4: Joining Data
 
-<embed src="Case2.pdf" width="800px" height="600px" type="application/pdf">
+<iframe src="Case2.pdf" width="800px" height="600px"></iframe>
