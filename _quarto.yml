@@ -5,9 +5,9 @@ project:
 website:
   title: "Professor Bronson"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    left: []
+#      - href: index.qmd
+#        text: Home
 #      - href: Case 1.qmd
 #        text: Case 1
 
