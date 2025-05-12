@@ -1,7 +1,6 @@
 ---
 title: "Case 1"
 format: html
-publish: false
 ---
 ## Identifying Data Problems
 
